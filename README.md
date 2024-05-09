@@ -51,7 +51,7 @@ Y is the Y axis (up, down)
 
 ALL POINTS CORRESPONDING TO EQUATION WILL BE MARKED WITH SYMBOL &
 
-POINT CORRESPONDING TO A DOT WILL BE MARKED WITH +
+POINT CORRESPONDING TO A DOT WILL BE MARKED WITH $
 
 this will be your example of % being used
 
@@ -92,7 +92,7 @@ Y
 
 Example of point syntax and graphing of point
 
-@NameOfPoint = (-1,4)
+$NameOfPoint = (-1,4)
 
 this is how it works, X is the left right axis, while Y is the up down axis. (x,y)
 
@@ -102,7 +102,7 @@ Y
 
 """""|"""""|"""""|"""""|"""""|"""""|"""""|"""""|
 
-4 _________+____________________________________
+4 _________$____________________________________
 
 """""|"""""|"""""|"""""|"""""|"""""|"""""|"""""|
 
